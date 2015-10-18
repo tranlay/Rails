@@ -1,2 +1,3 @@
 # Rails
 rails study
+ok
